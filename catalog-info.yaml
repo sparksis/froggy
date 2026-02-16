@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: froggy
-  description: "This content describes a Next.js project, including how to get started with the development server and resources for further learning."
+  description: "This is a Next.js project, bootstrapped with `create-next-app`, that can be run with a development server and edited in `app/page.tsx`."
   annotations:
     github.com/project-slug: sparksis/froggy
 spec:
